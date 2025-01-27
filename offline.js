@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1737975989,
+	"version": 1737976906,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -31,6 +31,8 @@
 		"media/hit 2.ogg",
 		"media/hit 3.m4a",
 		"media/hit 3.ogg",
+		"media/hit 4.m4a",
+		"media/hit 4.ogg",
 		"media/bg (1).m4a",
 		"media/bg (1).ogg",
 		"media/bg (2).m4a",
