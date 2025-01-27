@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1737963165,
+	"version": 1737965282,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,7 +11,6 @@
 		"images/play-sheet0.png",
 		"images/bg-sheet0.png",
 		"images/robber-sheet0.png",
-		"images/robber-sheet1.png",
 		"images/dot-sheet0.png",
 		"images/trigger-sheet0.png",
 		"images/kevin-sheet0.png",
@@ -23,6 +22,7 @@
 		"images/explosion-sheet3.png",
 		"images/explosion-sheet4.png",
 		"images/explosion-sheet5.png",
+		"images/solid_white4-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
 		"icon-16.png",
